@@ -25,10 +25,10 @@
 ## Achievement:
    - Awardee of Eduversal Indonesia Scholarship
 ## Languages Proficiency:
-   - Indonesian: ●●●●●●●●●●
-   - English   : ●●●●●●●
-   - Deutsch   : ●●●●
-   - Thai      : ●●
+   - Indonesian ●●●●●●●●●●
+   - English ●●●●●●●
+   - Deutsch ●●●●
+   - Thai ●●
 
 
 <br />

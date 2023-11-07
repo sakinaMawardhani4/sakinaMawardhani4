@@ -37,11 +37,15 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![Linkedin](![linkedin-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/756be136-eb01-4e1a-bf11-589f9637cdab)](https://www.linkedin.com/in/sakina-mawardhani-817004286/)
+[![Linkedin](![linkedin-dark](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e6ea5cd7-1438-4ff8-909d-517217a6fee5)](https://www.linkedin.com/in/sakina-mawardhani-817004286/)
 &nbsp;&nbsp;
-[![website](![instagram-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e94bdff0-b8ca-4c2c-b915-041bde121f17)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
+[![Youtube](![youtube-dark](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/2fd85f68-5b5e-42a4-96e6-3091f69bc663)](https://www.youtube.com/channel/UCv1r5GZbUq2zfHOf_WjF7dg)
+[![Youtube](![youtube-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/173d13b0-7897-43ce-b760-fbf7f1b2c107)]()
+[![Youtube](![youtube-dark](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/2fd85f68-5b5e-42a4-96e6-3091f69bc663)](https://www.youtube.com/channel/UCv1r5GZbUq2zfHOf_WjF7dg)
+&nbsp;&nbsp;
+[![Instagram](![instagram-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e94bdff0-b8ca-4c2c-b915-041bde121f17)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
+[![Instragram](![instagram-dark](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/f2a5ee5c-d53c-4fde-b503-337e94b42667))](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
 
 
 

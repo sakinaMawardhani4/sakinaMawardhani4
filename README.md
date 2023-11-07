@@ -1,5 +1,5 @@
 # Hi there, I'm Sakina Mawardhani👋
-:[img1] https://github.com/sakinaMawardhani4/sakinaMawardhani4/blob/9524a38759f4b5d3f2e72d6e51c94074c1171bc8/73ffb5e3-cba0-44af-b4f0-f8ab168b59aa.jpg
+![73ffb5e3-cba0-44af-b4f0-f8ab168b59aa](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/44acf17f-9005-4845-9a46-9965ebe792f2)
 ## About me:
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning English communication

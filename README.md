@@ -37,11 +37,7 @@
 ### Connect with me:
 
 
-[![Linkedin](![linkedin-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/756be136-eb01-4e1a-bf11-589f9637cdab)](https://www.linkedin.com/in/sakina-mawardhani-817004286/)
-
-[![Youtube](![youtube-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/173d13b0-7897-43ce-b760-fbf7f1b2c107)](https://www.youtube.com/channel/UCv1r5GZbUq2zfHOf_WjF7dg)
-
-[![Instagram](![instagram-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e94bdff0-b8ca-4c2c-b915-041bde121f17)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
+(![linkedin-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/756be136-eb01-4e1a-bf11-589f9637cdab)](https://www.linkedin.com/in/sakina-mawardhani-817004286/) (![youtube-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/173d13b0-7897-43ce-b760-fbf7f1b2c107)](https://www.youtube.com/channel/UCv1r5GZbUq2zfHOf_WjF7dg) (![instagram-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e94bdff0-b8ca-4c2c-b915-041bde121f17)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
 
 
 

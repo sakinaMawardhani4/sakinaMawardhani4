@@ -11,10 +11,10 @@
 #### 1. [International College Payap University](https://wp.payap.ac.th/) | Thailand `2021-present`
  
 #### 2. [SMAN 1 Glagah](https://www.sman1glagah.sch.id/) | Science | Banyuwangi, Indonesia `2016-2019`
-   - member of academic wriiters
+   - Member of academic wriiters
 
 ## Work Experience:
-#### 1. [Hotelier] | Caputt, Deutschland `March 2020 - October 2020`
+#### 1. [Hotelier] | Caputh, Deutschland `March 2020 - October 2020`
    - Housekeeper
    - Waitress
 #### 2. [Freelancer as a Online Teacher] | `2022-present`

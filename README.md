@@ -36,14 +36,12 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](![instagram-light](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/e94bdff0-b8ca-4c2c-b915-041bde121f17)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
+[![website](./img/instagram-dark.svg)](https://instagram.com/sakinasasa04?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr)
 
 
 

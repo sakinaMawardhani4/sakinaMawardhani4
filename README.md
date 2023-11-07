@@ -1,4 +1,5 @@
 # Hi there, I'm Sakina Mawardhani👋
+(73ffb5e3-cba0-44af-b4f0-f8ab168b59aa.jpg)
 ## About me:
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning English communication

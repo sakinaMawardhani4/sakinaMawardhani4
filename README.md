@@ -22,12 +22,13 @@
    - Teaching English for A1-A2 level
    - Teaching German for A1 level
 ---
-
+## Achievement:
+   - Awardee of Eduversal Indonesia Scholarship
 ## Languages Proficiency:
-   - Indonesian ●●●●●●●●●●
-   - English    ●●●●●●●
-   - Deutsch    ●●●●
-   - Thai       ●●
+   - Indonesian: ●●●●●●●●●●
+   - English   : ●●●●●●●
+   - Deutsch   : ●●●●
+   - Thai      : ●●
 
 
 <br />

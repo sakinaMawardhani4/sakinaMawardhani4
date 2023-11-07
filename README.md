@@ -1,5 +1,5 @@
 # Hi there, I'm Sakina Mawardhani👋
-![73ffb5e3-cba0-44af-b4f0-f8ab168b59aa](https://github.com/sakinaMawardhani4/sakinaMawardhani4/assets/148930590/44acf17f-9005-4845-9a46-9965ebe792f2)
+
 ## About me:
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning English communication
@@ -24,10 +24,10 @@
 ---
 
 ## Languages Proficiency:
-   - Indoneian 
-   - English
-   - Deutsch
-   - Thai
+   - Indonesian ●●●●●●●●●●
+   - English    ●●●●●●●
+   - Deutsch    ●●●●
+   - Thai       ●●
 
 
 <br />
@@ -47,4 +47,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
